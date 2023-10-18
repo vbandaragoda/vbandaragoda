@@ -59,10 +59,10 @@ Photoshop, Illustrator, and After Effects as my tools.
       alt="bootstrap"
     />
   </a>
-  <a href="https://babeljs.io/" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black"
-      alt="babel"
+      src="https://img.shields.io/badge/tailwindcss-07B0CE.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
+      alt="tailwindcss"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
@@ -83,16 +83,38 @@ Photoshop, Illustrator, and After Effects as my tools.
       alt="jquery"
     />
   </a>
-  <a href="https://webpack.js.org" target="_blank">
+  <a href="https://wordpress.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"
+      src="https://img.shields.io/badge/wordpress-3858E9.svg?style=for-the-badge&logo=wordpress&logoColor=white"
+      alt="wordpress"
+    />
+  </a>
+</p>
+
+<h3 align="center">Prototype</h3>
+<p align="center">
+  <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank">
+    <img
+      src="https://img.shields.io/badge/adobe%20XD-4D093D.svg?style=for-the-badge&logo=adobeXD&logoColor=white"
+      alt="adobe%20XD"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/figma-EB5124.svg?style=for-the-badge&logo=figma&logoColor=white"
+      alt="figma"
     />
   </a>
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
+  <a href="https://supabase.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/supabase-3ECF90.svg?style=for-the-badge&logo=supabase&logoColor=white"
+      alt="supabase"
+    />
+  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"
@@ -110,10 +132,10 @@ Photoshop, Illustrator, and After Effects as my tools.
       src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
       alt="vercel"
     />
-  </a>  
+  </a>
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img
@@ -155,6 +177,12 @@ Photoshop, Illustrator, and After Effects as my tools.
       alt="postman"
     />
   </a>
+  <a href="https://localwp.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/localwp-51BB7B.svg?style=for-the-badge&logo=localwp&logoColor=white"
+      alt="localwp"
+    />
+  </a>
 </p>
 
 ----
@@ -163,22 +191,30 @@ Photoshop, Illustrator, and After Effects as my tools.
 
 <div style="margin-top: 10px" align="center">
   <div>
-    <a href="https://linkedin.com/in/example" target="_blank">
+    <a href="https://www.linkedin.com/in/vimukthi-bandaragoda-2955641a7/" target="_blank">
       <img
         src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="example"
+        alt="linkedin"
       />
     </a>
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="vimukthi.nelanga@gmail.com" target="_blank">
       <img
-        src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="example"
+        src="https://img.shields.io/badge/gmail-FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="gmail"
       />
     </a>
-    <a href="https://dribbble.com/example" target="_blank">
+  </div>
+  <div>
+    <a href="https://dribbble.com/nero240" target="_blank">
       <img
         src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black"
-        alt="example"
+        alt="dribbble"
+      />
+    </a>
+    <a href="https://www.behance.net/vimukthinelanga" target="_blank">
+      <img
+        src="https://img.shields.io/badge/behance-0749C4.svg?style=for-the-badge&logo=behance&logoColor=red"
+        alt="behance"
       />
     </a>
   </div>
