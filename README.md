@@ -105,6 +105,12 @@ Photoshop, Illustrator, and After Effects as my tools.
       alt="heroku"
     />
   </a>
+  <a href="https://vercel.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="vercel"
+    />
+  </a>  
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
