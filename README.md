@@ -60,7 +60,7 @@
   </a>
    <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white"
+      src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=next&logoColor=white"
       alt="nextjs"
     />
   </a>
@@ -112,13 +112,13 @@
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img
-      src="https://img.shields.io/badge/illustrator-310000.svg?style=for-the-badge&logo=illustrator&logoColor=white"
+      src="https://img.shields.io/badge/illustrator-310000.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=white"
       alt="illustrator"
     />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img
-      src="https://img.shields.io/badge/photoshop-001D34.svg?style=for-the-badge&logo=photoshop&logoColor=0x2FA3F7"
+      src="https://img.shields.io/badge/photoshop-001D34.svg?style=for-the-badge&logo=adobePhotoshop&logoColor=0x2FA3F7"
       alt="photoshop"
     />
   </a>
