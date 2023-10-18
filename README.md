@@ -193,7 +193,7 @@ Photoshop, Illustrator, and After Effects as my tools.
     </a>
     <a href="vimukthi.nelanga@gmail.com" target="_blank">
       <img
-        src="https://img.shields.io/badge/gmail-FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/gmail-FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=red"
         alt="gmail"
       />
     </a>
@@ -205,7 +205,7 @@ Photoshop, Illustrator, and After Effects as my tools.
     </a>
     <a href="https://www.behance.net/vimukthinelanga" target="_blank">
       <img
-        src="https://img.shields.io/badge/behance-0749C4.svg?style=for-the-badge&logo=behance&logoColor=red"
+        src="https://img.shields.io/badge/behance-0749C4.svg?style=for-the-badge&logo=behance&logoColor=white"
         alt="behance"
       />
     </a>
