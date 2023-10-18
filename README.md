@@ -54,14 +54,14 @@
 <p align="center">
    <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"
       alt="react"
     />
   </a>
    <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=next&logoColor=white"
-      alt="nextjs"
+      alt="next"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
@@ -112,13 +112,13 @@
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img
-      src="https://img.shields.io/badge/illustrator-310000.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=white"
+      src="https://img.shields.io/badge/illustrator-310000.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=FC9800"
       alt="illustrator"
     />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img
-      src="https://img.shields.io/badge/photoshop-001D34.svg?style=for-the-badge&logo=adobePhotoshop&logoColor=0x2FA3F7"
+      src="https://img.shields.io/badge/photoshop-001D34.svg?style=for-the-badge&logo=adobePhotoshop&logoColor=2FA3F7"
       alt="photoshop"
     />
   </a>
