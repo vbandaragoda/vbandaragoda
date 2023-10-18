@@ -179,7 +179,7 @@ Photoshop, Illustrator, and After Effects as my tools.
   </a>
   <a href="https://localwp.com/" target="_blank">
     <img
-      src="https://img.shields.io/badge/localwp-51BB7B.svg?style=for-the-badge&logo=localwp&logoColor=white"
+      src="https://img.shields.io/badge/local-51BB7B.svg?style=for-the-badge&logo=local&logoColor=white"
       alt="localwp"
     />
   </a>
