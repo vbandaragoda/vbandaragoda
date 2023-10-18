@@ -13,8 +13,7 @@
 </h1>
 <h3 font-size="20" align="center">A passionate UX and Frontend Developer.</h3>
 
-- I'm a freelancing web and mobile UX Developer. I use Adobe Xd, Figma, VS Code,
-Photoshop, Illustrator, and After Effects as my tools.
+- I'm a freelancing web and mobile UX Developer with a passion for creating intuitive and visually appealing user experiences. My toolkit includes industry-standard software like Adobe XD, Figma, and Photoshop, which I leverage to craft seamless design prototypes and mockups. In addition to design tools, I'm proficient in coding and using VS Code to bring my designs to life by implementing responsive web and mobile interfaces. Furthermore, I incorporate my graphic design skills by utilizing Illustrator for vector graphics and even adding interactive animations using After Effects. With a comprehensive set of skills and tools, I'm dedicated to delivering exceptional user experiences for your web and mobile applications.
 
 <h2 align="center">
   <u><b>Knowledge Base</b></u>
@@ -31,6 +30,12 @@ Photoshop, Illustrator, and After Effects as my tools.
       alt="javascript"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"
+    />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -43,16 +48,22 @@ Photoshop, Illustrator, and After Effects as my tools.
       alt="css3"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"
-    />
-  </a>
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
+   <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"
+    />
+  </a>
+   <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white"
+      alt="nextjs"
+    />
+  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
       src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -63,12 +74,6 @@ Photoshop, Illustrator, and After Effects as my tools.
     <img
       src="https://img.shields.io/badge/tailwindcss-07B0CE.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
       alt="tailwindcss"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"
     />
   </a>
   <a href="https://redux.js.org" target="_blank">
@@ -91,7 +96,7 @@ Photoshop, Illustrator, and After Effects as my tools.
   </a>
 </p>
 
-<h3 align="center">Prototype</h3>
+<h3 align="center">Prototype & Design</h3>
 <p align="center">
   <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank">
     <img
@@ -103,6 +108,18 @@ Photoshop, Illustrator, and After Effects as my tools.
     <img
       src="https://img.shields.io/badge/figma-EB5124.svg?style=for-the-badge&logo=figma&logoColor=white"
       alt="figma"
+    />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img
+      src="https://img.shields.io/badge/illustrator-310000.svg?style=for-the-badge&logo=illustrator&logoColor=white"
+      alt="illustrator"
+    />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img
+      src="https://img.shields.io/badge/photoshop-001D34.svg?style=for-the-badge&logo=photoshop&logoColor=0x2FA3F7"
+      alt="photoshop"
     />
   </a>
 </p>
