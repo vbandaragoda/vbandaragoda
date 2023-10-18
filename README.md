@@ -54,7 +54,7 @@
 <p align="center">
    <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"
     />
   </a>
@@ -196,7 +196,7 @@
   </a>
 </p>
 
-----
+
 
 <h3 align="center">Connect with me</h3>
 
